@@ -1,0 +1,10 @@
+{
+	"firstname":"John",
+	"lastname":"Due",
+	"age": 30,
+	"pets":[
+		{ "animal":"dog", "name":"Rex" },
+		{ "animal":"cat", "name":"Felix" }
+	],
+	"status": "alive"
+}
